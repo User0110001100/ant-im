@@ -1,0 +1,7 @@
+{
+    "Address": "localhost",
+    "Port": 8000,
+    "DBPort": 2000,
+    "DBAddress" : "localhost",
+    "DBURI" : "root:ug3213748560@/dbname"
+}
